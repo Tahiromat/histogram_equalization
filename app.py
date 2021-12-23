@@ -137,3 +137,4 @@ with referances:
     st.markdown(
         "(https://levelup.gitconnected.com/introduction-to-histogram-equalization-for-digital-image-enhancement-420696db9e43)")
     st.markdown("(https://en.wikipedia.org/wiki/Histogram_equalization)")
+    st.markdown("You can reach the source code from (https://github.com/Tahiromat/histogram_equalization)")
